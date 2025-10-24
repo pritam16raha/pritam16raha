@@ -109,7 +109,7 @@ I'm a developer from Durgapur, West Bengal, India. I love turning complex proble
 ### 🤝 Open to Opportunities
 
 * Roles: **Full‑Stack**, **Backend (Python/FastAPI)**, **AI Platform/Applied AI**.
-* I enjoy owning problems end‑to‑end: design → build → deploy → observe.
+* I enjoy owning problems end‑to‑end: design → build → deploy → observe
 
 ---
 
