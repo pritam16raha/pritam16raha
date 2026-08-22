@@ -88,8 +88,6 @@ Developed seamless, secure subscription and checkout flows using Stripe, AWS Lam
 
 ### 📊 Developer Snapshot
 
-> *Rather than relying on dynamic widgets that break, here is a real look at my current engineering output and focus:*
-
 *   **Primary Languages:** **Go** (High-concurrency systems), **Python** (AI & Data Pipelines), **TypeScript** (Full-Stack UIs).
 *   **Daily Code Focus:** Transitioning away from monolithic structures toward microservices, serverless deployments (AWS Lambda), and self-hosted AI architecture.
 *   **Repository Activity:** The majority of my recent, high-impact commits are in private repositories for startup initiatives like **Outloop** and client-confidential AI automation pipelines. 
