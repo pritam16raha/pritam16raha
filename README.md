@@ -86,7 +86,11 @@ Developed seamless, secure subscription and checkout flows using Stripe, AWS Lam
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritam16raha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Pritam's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam16raha&layout=compact&theme=tokyonight" alt="Pritam's Top Languages" height="160"/>
-</div>
+### 📊 Developer Snapshot
+
+> *Rather than relying on dynamic widgets that break, here is a real look at my current engineering output and focus:*
+
+*   **Primary Languages:** **Go** (High-concurrency systems), **Python** (AI & Data Pipelines), **TypeScript** (Full-Stack UIs).
+*   **Daily Code Focus:** Transitioning away from monolithic structures toward microservices, serverless deployments (AWS Lambda), and self-hosted AI architecture.
+*   **Repository Activity:** The majority of my recent, high-impact commits are in private repositories for startup initiatives like **Outloop** and client-confidential AI automation pipelines. 
+*   **Current Learning Trajectory:** Deepening my expertise in distributed systems architecture, advanced Vector Database tuning (Qdrant), and cost-vs-latency optimization for open-source LLMs.
