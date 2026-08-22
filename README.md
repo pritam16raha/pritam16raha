@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9hDx80flg7wb/giphy.gif" width="100"/>
   <h1>Hi, I'm Pritam Raha 👋</h1>
-  <h3>AI Backend Architect | Cloud Infrastructure | Full-Stack Engineer</h3>
-  <p><i>Transitioning from managed cloud services to building high-performance, self-hosted AI architectures and real-time distributed systems.</i></p>
+  <h3>AI Backend & Cloud Engineer | Distributed Systems</h3>
+  <p><i>Architecting high-performance distributed systems, enterprise RAG pipelines, and production LLM integrations across global tech teams[cite: 1].</i></p>
 </div>
 
 <div align="center">
@@ -13,82 +13,61 @@
 
 <br/>
 
-### 🚀 What I'm Building & Exploring
+### 🚀 About Me & Current Focus
 
-Instead of just maintaining systems, I'm currently focused on architecting them from the ground up for scale, speed, and cost-efficiency:
+I am a Results-driven Software Engineer with 2+ years of experience building scalable, decoupled microservices and serverless infrastructure[cite: 1]. Operating independently across global time zones (US, CET, APAC), I focus on delivering cost-optimized, production-ready software[cite: 1]. 
 
-* 🧠 **Self-Hosted AI Infrastructure:** Moving beyond managed APIs (like Vertex AI) to deploy **LLaMA 32B** on dedicated VMs. Building high-speed RAG pipelines using **Qdrant** vector search and local embeddings.
-* ⚡ **High-Concurrency Systems:** Engineering real-time event and queue management platforms (*Brain Ground*, *RoundWait*) leveraging the speed of **Go**, **Vue 3**, and **AWS**.
-* 🚀 **Startup Engineering:** Architecting the core AI pipeline and serverless infrastructure for **Outloop** (an outbound sales AI platform) geared toward Y Combinator standards.
+Currently, my work revolves heavily around transitioning away from managed cloud APIs to build highly efficient, self-hosted AI architectures and real-time state synchronization systems[cite: 1].
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-*(Grouped for quick recruiter scanning)*
+*Organized for quick scanning of my core proficiencies.*
 
-**Backend & Cloud Architecture**
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-**AI, Search & Data**
-<p>
-  <img src="https://img.shields.io/badge/LLaMA-0466C8?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qdrant-FE3E6D?style=for-the-badge&logo=qdrant&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
-
-**Frontend & Full-Stack**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-</p>
+| Category | Technologies & Patterns |
+| :--- | :--- |
+| **Languages & Frameworks** | Python (FastAPI), TypeScript, Next.js, React, Node.js, JavaScript (ES6+), SQL[cite: 1]. |
+| **AI & Search Engineering** | RAG Pipelines, LLM Integrations (Gemini, Vertex AI, Llama 32B via Ollama), Vector Search (Qdrant, pgvector, Elasticsearch v8.19), Embeddings, Prompt Engineering[cite: 1]. |
+| **Backend & Architecture** | CQRS, Change Data Capture (CDC), Distributed Systems, Serverless Architecture, RESTful APIs, SSO, Real-time State Sync[cite: 1]. |
+| **Cloud & DevOps (AWS/GCP)**| EC2, Lambda, Cloud Run, RDS, DynamoDB, Firebase RTDB, Docker, Terraform, CI/CD, Git Security (Key Rotation)[cite: 1]. |
+| **Databases & Integrations** | PostgreSQL, MongoDB, Supabase, Stripe APIs, Make.com (Automated Workflows), Tailwind CSS, Zustand[cite: 1]. |
 
 ---
 
 ### 💼 Engineering Highlights
 
 <details>
-<summary><b>1. AI Document Automation & Recommendation Pipelines</b></summary>
+<summary><b>1. Self-Hosted AI Migrations & Vector Search</b></summary>
 <br/>
-Engineered production-grade AI microservices. Progressed from building clause extraction and matching tools using managed GCP Vertex AI, to architecting self-hosted LLaMA models integrated with Qdrant for cost-optimized, highly scalable vector retrieval.
+Architected a cost-optimized AI recommendation system by successfully migrating from GCP Vertex AI to an in-house LLaMA 32B model hosted via Ollama on a dedicated VM[cite: 1]. Paired this with Qdrant for high-speed, scalable vector search[cite: 1]. Managed the technical migration of a high-availability Elasticsearch cluster on AWS EC2 (v8.13 to v8.19) to unlock advanced relational capabilities for AI data retrieval[cite: 1].
 </details>
 
 <details>
-<summary><b>2. Real-Time Event Platforms</b></summary>
+<summary><b>2. Distributed Systems & High Concurrency</b></summary>
 <br/>
-Built full-stack concurrent platforms utilizing Go, Firebase, and AWS infrastructure to handle real-time queue management and event streaming with zero perceived latency.
+Engineered a highly decoupled V2 system for a proprietary Event OS using CQRS patterns and Change Data Capture (CDC), effectively bridging FastAPI write operations with Next.js and Firebase for real-time reads[cite: 1]. Engineered real-time simulation platforms scaling to handle 3,000 concurrent users seamlessly[cite: 1].
 </details>
 
 <details>
-<summary><b>3. Serverless Payment Integrations</b></summary>
+<summary><b>3. Serverless Workflows & Financial Integrations</b></summary>
 <br/>
-Developed seamless, secure subscription and checkout flows using Stripe, AWS Lambda, and Angular for digital product deployments.
+Architected and deployed scalable, secure subscription-based payment gateways utilizing AWS Lambda and Stripe[cite: 1]. Built comprehensive AI-powered document analysis platforms utilizing Next.js, FastAPI, and Supabase to handle end-to-end authentication and file processing[cite: 1].
 </details>
 
 ---
 
-### 🎓 Certifications & Background
+### 🎓 Education & Certifications
 
-* **AI/ML Certifications:** Post Graduate Program in AI & ML (Simplilearn) | AI Fluency & Claude 101 (Anthropic Academy)
-* **Academics:** MCA & BCA (Dr. B.C. Roy Engineering College)
-* **Hardware:** I run a custom local rig (Ryzen 9 9900X / RTX 5060 Ti / Linux & Windows) optimized for heavy local LLM inference and containerized workloads.
+* **Post Graduate Program in AI and Machine Learning** — *Simplilearn (2025)*[cite: 1].
+* **Master of Computer Applications (MCA) & BCA** — *Dr. B.C. Roy Engineering College (MAKAUT)*[cite: 1].
 
-<br/>
+---
 
 ### 📊 Developer Snapshot
 
-*   **Primary Languages:** **Go** (High-concurrency systems), **Python** (AI & Data Pipelines), **TypeScript** (Full-Stack UIs).
-*   **Daily Code Focus:** Transitioning away from monolithic structures toward microservices, serverless deployments (AWS Lambda), and self-hosted AI architecture.
-*   **Repository Activity:** The majority of my recent, high-impact commits are in private repositories for startup initiatives like **Outloop** and client-confidential AI automation pipelines. 
-*   **Current Learning Trajectory:** Deepening my expertise in distributed systems architecture, advanced Vector Database tuning (Qdrant), and cost-vs-latency optimization for open-source LLMs.
+> *A real look at my current engineering output and trajectory:*
+
+*   **Primary Focus:** Decoupled microservices (CQRS/CDC)[cite: 1], Serverless AWS deployments[cite: 1], and highly optimized Vector DB implementations[cite: 1].
+*   **Performance Optimization:** Proven history of refactoring UIs with Zustand/RTK Query to reduce re-renders and improve load times by up to 40%[cite: 1].
+*   **Security & DevOps:** Proactive in securing CI/CD pipelines, establishing strict repository tracking protocols, and conducting vulnerability audits on AWS infrastructure[cite: 1].
