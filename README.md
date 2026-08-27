@@ -140,7 +140,7 @@ I am open to **AI Backend**, **Backend/Platform**, **Cloud**, and **Full-Stack**
 | | |
 |---|---|
 | **MCA** · Dr. B. C. Roy Engineering College, MAKAUT | 2022 — 2024 · CGPA **7.78** |
-| **BCA** · Indira Gandhi National Open University | 2018 — 2021 · Overall **62.29%** |
+| **BCA** · Indira Gandhi National Open University | 2018 — 2021 · **62.29%** |
 | **Post Graduate Program in AI & Machine Learning** · Simplilearn | 2024 — 2025 |
 
 ---
